@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruv64
 - 👀 I’m interested in python, c and c++ programming
-- 🌱 I’m currently learning django framework
+- 🌱 I’m currently learning vueJS & django framework
 - 📫 email me at dhruv.p8601@gmail.com to reach me
 
 <!---
