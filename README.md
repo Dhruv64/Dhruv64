@@ -81,12 +81,6 @@ const dhruv = {
 - Architected event-driven microservices serving 200+ organizations
 - Integrated ChatGPT-4O API with intelligent caching, reducing costs by 60%
 
-**💻 Full Stack Intern @ Mamo Technolabs**  
-*Jan 2023 - June 2023*
-- Developed **Card-Genius** contact sharing platform with 500+ active users
-- Implemented secure authentication with NextAuth.js (99.9% success rate)
-- Optimized PostgreSQL queries, reducing response time by 40%
-
 ---
 
 ## 🔥 Featured Projects
